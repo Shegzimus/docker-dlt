@@ -8,7 +8,7 @@ import dlt
 from dlt.sources.helpers import requests
 
 
-key = dlt.sources.rest_api.client
+key = ''
 
 URL = f"https://v6.exchangerate-api.com/v6/{key}/latest/EUR"
 
